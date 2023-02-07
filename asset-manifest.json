@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pdf-download/static/css/main.44f8b8b5.css",
+    "main.js": "/pdf-download/static/js/main.e218d77c.js",
+    "static/js/787.a9b74b7a.chunk.js": "/pdf-download/static/js/787.a9b74b7a.chunk.js",
+    "index.html": "/pdf-download/index.html",
+    "main.44f8b8b5.css.map": "/pdf-download/static/css/main.44f8b8b5.css.map",
+    "main.e218d77c.js.map": "/pdf-download/static/js/main.e218d77c.js.map",
+    "787.a9b74b7a.chunk.js.map": "/pdf-download/static/js/787.a9b74b7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.e218d77c.js"
+  ]
+}
